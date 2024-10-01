@@ -8,4 +8,4 @@ Authors:
 * Myles Bohrer-Purnell
 * Nicky Moreno
 
-This code may be found at <FILL IN>.
+This code may be found at <(https://github.com/MylesJBP/lab-inheritance-maven)>.
